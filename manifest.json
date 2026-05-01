@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Cherry Clock",
+  "version": "4.7",
+  "description": "A minimalist aesthetic new tab clock with live seconds and shortcuts.",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
